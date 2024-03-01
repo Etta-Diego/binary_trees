@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_size - function that measures the height of a binary tree
+ * binary_tree_leaves - function that measures the height of a binary tree
  * @tree: pointer to the root node of the tree to count the number of leaves.
  * Return: size of the tree.
  */
